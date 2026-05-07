@@ -1,4 +1,3 @@
-// coment
 pipeline {
     agent any
 
